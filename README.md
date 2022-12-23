@@ -1,6 +1,6 @@
 # National Robot Fighting Competition
 
-We were a national robot fighting competition for two consecutive years in 2015 and 2016. The winning memory is still fresh in my mind. Winning these tournaments gave me confidence and boosted me to delve into the field of electronics and embedded systems.
+We were  national robot fighting champions for two consecutive years in 2015 and 2016. The winning memory is still fresh in my mind. Winning these tournaments gave me confidence and boosted me to delve into the field of electronics and embedded systems.
 
 Two robots are kept in the white arena as shown in the figure below. They operate autonomously and try to push other out of the arena. That robot that can push the other out of the arena will be a winner. 
 
