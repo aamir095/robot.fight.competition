@@ -23,3 +23,11 @@ Group Photo with medal and trophy. The winning prize was NRS. 50,000($5000) whic
 
 
 ![group wining photo](https://user-images.githubusercontent.com/48818645/209407235-e31da771-f88e-4106-9d61-71d9b84f6613.PNG)
+
+
+Everything has its time. Our Robo "Alpha Male"  was dismantled. May its soul rest in peace forever.  We miss you. 
+
+![RIP Alpha Malr](https://user-images.githubusercontent.com/48818645/209407791-ba5825fe-7972-461c-ad66-400b596c9da9.PNG)
+
+
+                                                              ## The End.
