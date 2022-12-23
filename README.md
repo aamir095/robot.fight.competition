@@ -30,4 +30,4 @@ Everything has its time. Our Robo "Alpha Male"  was dismantled. May its soul res
 ![RIP Alpha Malr](https://user-images.githubusercontent.com/48818645/209407791-ba5825fe-7972-461c-ad66-400b596c9da9.PNG)
 
 
-                                                              ## The End.
+                                                         ## The End.
